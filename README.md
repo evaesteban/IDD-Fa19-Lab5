@@ -3,5 +3,5 @@
 [Link to Arduino code](JackInABox.ino)
 [Link to .stl Files](JackInABox.stl)
 [Link to Jack in a Box Video](BoxVideo_Muted.mp4)
-![](OpenBox.jpeg)
+![](ClosedBox.jpeg)
 ![](OpenBox.jpeg)
